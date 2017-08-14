@@ -1,0 +1,35 @@
+{
+    "author": "@niazangels",
+    "dependencies": {},
+    "keywords": [],
+    "name": "umbrella",
+    "pebble": {
+        "displayName": "umbrella",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/snowman",
+                    "name": "IMAGE_SNOWMAN",
+                    "targetPlatforms": [
+                        "aplite",
+                        "diorite"
+                    ],
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "diorite"
+        ],
+        "uuid": "24a68048-43e1-4a0d-b2de-cf8a4407ea9d",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
